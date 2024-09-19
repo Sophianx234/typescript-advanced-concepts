@@ -4,10 +4,14 @@ import Input from "./components/Input";
 function App() {
   return <main>
     <p>
-      <Button type='anchor'  /> link
+      <Button type='anchor'  >
+        link
+        </Button> 
     </p>
-      <Button type="button" href=""/>
+      <Button type="button">
+
       button
+      </Button>
   </main>
 }
 
